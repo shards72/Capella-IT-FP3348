@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1440345982 source:c:\users\shards\desktop\calcmortgage\main.cpp
+	<iostream>
+	<iomanip>
+	"MortgagePayment.h"
+	"PaymentCalc.h"
+
+1440348699 c:\users\shards\desktop\calcmortgage\include\mortgagepayment.h
+
+1440348466 source:c:\users\shards\desktop\calcmortgage\src\mortgagepayment.cpp
+	"MortgagePayment.h"
+	"PaymentCalc.h"
+
+1440347764 c:\users\shards\desktop\calcmortgage\include\paymentcalc.h
+	<MortgagePayment.h>
+
+1440348327 source:c:\users\shards\desktop\calcmortgage\src\paymentcalc.cpp
+	"PaymentCalc.h"
+	"MortgagePayment.h"
+	"math.h"
+	<iostream>
+
